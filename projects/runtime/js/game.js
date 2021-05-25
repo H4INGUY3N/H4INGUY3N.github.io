@@ -202,6 +202,7 @@
                 changeIntegrity(-damage);
             };
             return gameItem;
+          
         }
 
         /* must be set before call to playLevel with function that 
